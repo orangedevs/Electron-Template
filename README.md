@@ -3,7 +3,7 @@
 ## Clone this template
 
 ```bash
-git clone
+git clone https://github.com/orangedevs/Electron-Template.git
 ```
 
 ```bash
